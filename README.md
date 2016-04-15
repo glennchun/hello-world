@@ -1,2 +1,6 @@
 # hello-world
-My first repository in GitHub
+
+Hi Humans!
+
+Just following the GitHub Guides...
+BTW, first time using MD (markdown document) format.
